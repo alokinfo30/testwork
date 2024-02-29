@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"log"
 	"net/http"
-	"strconv" // Add this line to import the strconv package
+	"strconv" // strconv package
 	"github.com/gorilla/mux"
 	_ "github.com/go-sql-driver/mysql"
 )
